@@ -1,4 +1,4 @@
-/*klavyeden girilen N elemanlý bir dizide her bir elemandan kaç tane olduðunu bulan program*/
+/*Program to find how many of each element there are in an array of N elements entered from the keyboard*/
 
 #include <stdio.h>
 
@@ -7,7 +7,7 @@ int main(){
 	int i,j,counter=0;
 	int N,a;
 	
-	printf("The number of array's element: ");
+	printf("The number of elements in the array: ");
 	scanf("%d",&N);
 	int A[N];
 	printf("Enter elements of array:\n");

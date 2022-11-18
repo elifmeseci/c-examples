@@ -1,4 +1,4 @@
-//18.Write C code to convert a decimal number, n, to binary format
+//Write C code to convert a decimal number, n, to binary format
 
 #include <stdio.h>
  
